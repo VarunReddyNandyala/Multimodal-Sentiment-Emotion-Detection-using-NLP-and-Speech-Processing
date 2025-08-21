@@ -27,14 +27,7 @@ It is implemented and deployed in **Google Colab** with support for GPU accelera
 - Outputs both **sentiment and emotion labels with confidence scores**  
 - Interactive **browser-based UI** with separate tabs for text and audio  
 
----
 
-## 📂 Project Structure
-├── README.md # Project documentation
-├── requirements.txt # Dependencies (optional)
-├── Sentiment_Emotion.ipynb # Google Colab notebook
-
----
 
 ## 🛠️ Installation
 This project is designed to run in **Google Colab**.  
